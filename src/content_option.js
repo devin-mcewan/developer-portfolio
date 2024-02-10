@@ -79,7 +79,7 @@ const dataportfolio = [
   {
     img: "https://picsum.photos/400/?grayscale",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Open Kitchen - A recipe site where you can create, manage, and join shared 'Kitchens'. This makes it incredibily easy to have secret family recipes shared to a specific families kitchen.",
     link: "#",
   },
   {
