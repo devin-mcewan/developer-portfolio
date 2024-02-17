@@ -77,76 +77,15 @@ const services = [
 // Image, Description, Link
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://drive.google.com/thumbnail?id=1Xj4WW9-g6o-Rzr6hH6cg_pjLqxEGCZ36&sz=w1000",
     description:
       "Open Kitchen - A recipe site where you can create, manage, and join shared 'Kitchens'. This makes it incredibily easy to have secret family recipes shared to a specific families kitchen.",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://drive.google.com/thumbnail?id=15LJezax1PajGy6IICHBd_3KOur9-Lh3B&sz=w1000",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "VetQuoteEngine - A quote generating website for a detail shop. Customers can use this site to conveniently generate a quote of their selected services, know how much they will be charged, and then wait for the account Admin (business owner) to get in touch.",
     link: "#",
   },
 ];
