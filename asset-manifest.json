@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/devin-mcewan/developer-portfolio/static/css/main.d40d9072.css",
-    "main.js": "/devin-mcewan/developer-portfolio/static/js/main.18662b5e.js",
-    "index.html": "/devin-mcewan/developer-portfolio/index.html"
+    "main.css": "/devin-mcewan/static/css/main.d40d9072.css",
+    "main.js": "/devin-mcewan/static/js/main.64dcdd73.js",
+    "index.html": "/devin-mcewan/index.html"
   },
   "entrypoints": [
     "static/css/main.d40d9072.css",
-    "static/js/main.18662b5e.js"
+    "static/js/main.64dcdd73.js"
   ]
 }
