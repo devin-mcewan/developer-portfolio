@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { logotext ,socialprofils } from "../content_option";
 import Themetoggle from "../components/themetoggle";
 
-const Headermain = () => {
+const Headermain = ({theme, setTheme}) => {
   const [isActive, setActive] = useState("false");
 
   const handleToggle = () => {
@@ -21,7 +21,7 @@ const Headermain = () => {
             {logotext}
           </Link>
           <div className="d-flex align-items-center">
-          <Themetoggle />
+          <Themetoggle theme={theme} setTheme={setTheme}/>
           <button className="menu__button  nav_ac" onClick={handleToggle}>
             {!isActive ? <VscClose /> : <VscGrabber />}
           </button>

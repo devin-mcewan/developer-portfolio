@@ -14,7 +14,9 @@ const introdata = {
   description: "Passionate about creating web applications. Graduated from HTMElephant. Able to create full-stack websites with full CRUD capability.",
 
   // Landing Page Image.
-  your_img_url: "https://cdn.hashnode.com/res/hashnode/image/upload/v1678038706058/e81e9edc-4f4b-49b3-bc42-55027214c265.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm",
+  // your_img_url: "https://cdn.hashnode.com/res/hashnode/image/upload/v1678038706058/e81e9edc-4f4b-49b3-bc42-55027214c265.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm",
+  light_mode_img: "https://drive.google.com/thumbnail?id=1ZOjncC7V7Ahc8pgO9v8U1mrmLDdHb22N&sz=w1000", 
+  dark_mode_img: "https://drive.google.com/thumbnail?id=1us56eY_IFlcRfSXqdj09U7QTvmW_QoD1&sz=w1000",
 };
 
 const dataabout = {
